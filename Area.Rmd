@@ -14,4 +14,3 @@ knitr::opts_chunk$set(echo = TRUE)
 r <- 0.5
 Area <- pi*r^2
 ```
-
